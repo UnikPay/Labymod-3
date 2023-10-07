@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Unikpay",
+  "description": "This addon display the Unikpay balance and allows you to easily accept Unikpay transactions.",
+  "mainClass": "dk.manaxi.unikpay.labymod.Main",
+  "version": 1.0,
+  "author": "Itz_hoffe, Shad0wsense & Iskoldcool",
+  "category": 3,
+  "icon": "https://github.com/SuperPayDK/assets/raw/main/icon64x64.png"
+}
